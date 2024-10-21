@@ -1,0 +1,34 @@
+{
+  "WhitelistedUsers": {
+    "1281787320340713493": {
+      "hash": "465dea2857ca7fbb21e52c48bcbf4b6054584d239585d75b3c4667eaba653e29d9c97887ce25dbf73d3bd58adc9b9a9c605e2b3312401d86535156adba9ffbf0",
+      "attackable": false,
+      "level": 2,
+      "tags": [
+        {
+          "text": "mr erco hater",
+          "color": [
+            255,
+            50,
+            50
+          ]
+        }
+      ]
+    },
+    "1232188514217758754": {
+      "hash": "b7beca2abaed4f3327983d3c3bb2a8d12793f74e06d4aea4589395e305fd8c1b8130da3523dae1c277d2ae2e188f373afe658a48480a939879e7ced4868f24b5",
+      "attackable": false,
+      "level": 1,
+      "tags": [
+        {
+          "text": "Abyss private",
+          "color": [
+            255,
+            50,
+            50
+          ]
+        }
+      ]
+    }
+  }
+}
