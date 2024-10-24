@@ -47,7 +47,6 @@
     }
   }
 },
-{
     BlacklistedUsers = {},
     Announcement = {
         text = "hello there :)",
