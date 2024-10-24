@@ -47,11 +47,12 @@
     }
   }
 },
-"BlacklistedUsers": {},
-  "Announcement": {
-    "text": "hello there :)",
-    "expiretime": 1719510977.4331613,
-    "targets": "all"
-  },
-  "KillVape": true
+{
+    BlacklistedUsers = {},
+    Announcement = {
+        text = "hello there :)",
+        expiretime = 1719510977.4331613,
+        targets = "all"
+    },
+    KillVape = true
 }
