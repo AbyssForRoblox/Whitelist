@@ -29,6 +29,21 @@
           ]
         }
       ]
+    },
+    "1256842626255163412": {
+      "hash": "b1992567229437f8e61a19e84d228096e4da61070503398dc70e1cb7c14976acf5843a8b898df95edb4c22f802ad478c9366827619cc4d49b1826f2eb8370a78",
+      "attackable": false,
+      "level": 1,
+      "tags": [
+        {
+          "text": "Abyss private",
+          "color": [
+            255,
+            50,
+            50
+          ]
+        }
+      ]
     }
   }
 }
