@@ -6,7 +6,7 @@
       "level": 2,
       "tags": [
         {
-          "text": "mr erco hater",
+          "text": "Abyss owner",
           "color": [
             255,
             50,
@@ -47,6 +47,21 @@
     },
     "1289156818395856928": {
       "hash": "c47fa11f47bc016bfef2457c39515ce755f8bcabc42bb148bbdac50787bb2ce3b6ab51035c219fb9ed44078307bd3b8dd808e8888a4d14d1c31a3f709a9b1670",
+      "attackable": false,
+      "level": 1,
+      "tags": [
+        {
+          "text": "Abyss private",
+          "color": [
+            255,
+            50,
+            50
+          ]
+        }
+      ]
+    },
+    "1297112857695092767": {
+      "hash": "b97c681fea018940c2c0cd5e74de0ca55b3668b67dac82cd175ab079b577f473c625d84211b7d41f67f0e93e1ae1bdd2404c6e65380f670ab5d6f1292963ac1e",
       "attackable": false,
       "level": 1,
       "tags": [
